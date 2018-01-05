@@ -1,0 +1,10 @@
+{
+    "name": "tmzwinkels/nprogress",
+    "description": "A nanoscopic progress bar. With realistic trickle animations to tell your users that something's happening!",
+    "type": "component",
+    "homepage": "http://ricostacruz.com/nprogress/",
+    "author": {
+        "name": "Tim Zwinkels",
+        "url": "https://www.dutchcreation.com"
+    }
+}
